@@ -2,24 +2,27 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Incoming Assistant Professor
+<a href='https://uwaterloo.ca/electrical-computer-engineering/'>Electrical and Computer Engineering Department</a>, University of Waterloo
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: EX XXXX</p>
+    <p>200 University Ave W</p>
+    <p>Waterloo, Ontario</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an incoming Assistant Professor at the department of [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) of the University of Waterloo.
+My research aims to build new reconfigurable computing architectures that are more efficient, easier and faster to program, and better suited for key workloads at the edge and datacenters.
+This involves work on circuit and architecture modeling, computer-aided design tools, and application/hardware co-design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining the University of Waterloo, I received my PhD in Computer Engineering from the University of Toronto, where I was lucky to be trained by [Prof. Vaughn Betz](https://www.eecg.utoronto.ca/~vaughn/).
+During and before my PhD, I was a researcher at Intel Labs and Intel's Programmable Solutions Group (now Altera).
+Then, I established and led the Toronto office of [MangoBoost](https://www.mangoboost.io/), a Seattle-based startup developing data processing units for datacenter infrastructure acceleration.
