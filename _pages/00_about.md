@@ -2,8 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor
-<a href='https://uwaterloo.ca/electrical-computer-engineering/'>Electrical and Computer Engineering Department</a>, University of Waterloo
+subtitle: >
+  Incoming Assistant Professor
+  <a href='https://uwaterloo.ca/electrical-computer-engineering/'>Electrical and Computer Engineering Department</a> @ University of Waterloo
 
 profile:
   align: right
