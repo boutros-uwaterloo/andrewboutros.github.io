@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Incoming Assistant Professor
+  Incoming Assistant Professor <br />
   Electrical and Computer Engineering Department @ University of Waterloo
 profile:
   align: right
