@@ -19,10 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming Assistant Professor at the department of [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) of the University of Waterloo starting in January 2025.
-My research aims to build new reconfigurable computing architectures that are more efficient, easier and faster to program, and better suited for key workloads at the edge and datacenters.
-This involves work on circuit and architecture modeling, computer-aided design tools, and application/hardware co-design.
+I am an incoming Assistant Professor at the department of [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) of the [University of Waterloo](https://en.wikipedia.org/wiki/University_of_Waterloo) starting in January 2025.
+My research focuses on building new reconfigurable computing architectures that are more efficient, easier and faster to program, and better suited for high-demand workloads at the edge and datacenters.
+This involves work on architecture and circuit modeling, computer-aided design tools, and application/hardware co-design.
+I am particularly interested in applications from the deep learning and datacenter networking domains.
 
-Before joining the University of Waterloo, I received my PhD in Computer Engineering from the University of Toronto, where I was lucky to be trained by [Prof. Vaughn Betz](https://www.eecg.utoronto.ca/~vaughn/).
+Before joining the University of Waterloo, I received my PhD in Electrical and Computer Engineering from the University of Toronto, where I was lucky to be trained by [Prof. Vaughn Betz](https://www.eecg.utoronto.ca/~vaughn/).
 During and before my PhD, I was a researcher at Intel Labs and Intel's Programmable Solutions Group (now Altera).
 Then, I established and led the Toronto office of [MangoBoost](https://www.mangoboost.io/), a Seattle-based startup developing data processing units for datacenter infrastructure acceleration.
