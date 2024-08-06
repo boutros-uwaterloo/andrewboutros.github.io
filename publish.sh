@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /bin/bash
 
 COMMIT_MSG=$1
 
