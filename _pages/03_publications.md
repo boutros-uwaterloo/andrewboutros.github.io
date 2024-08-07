@@ -9,7 +9,7 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-Collaborations always make the whole greater than the sum of its parts. I was lucky to learn from and write papers with the following **82 co-authors** (ordered alphabetically by last name):
+Collaborations always make the whole greater than the sum of its parts! I was lucky to learn from and write papers with the following **82 co-authors** (ordered alphabetically by last name):
 
 Mustafa Abbas,
 [Mohamed A. Abd El Ghany](https://scholar.google.com/citations?user=McYwHf4AAAAJ&hl=en),
