@@ -9,6 +9,8 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
+Pre-publication list text goes here
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
