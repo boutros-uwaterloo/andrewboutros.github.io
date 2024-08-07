@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Team
-permalink: /team/
-description: Members of our research team.
+permalink: /projects/
+description:
 nav: true
 nav_order: 4
 display_categories: [Current, Alumni]
 horizontal: false
 ---
 
-<!-- pages/team.md -->
-<div class="team">
+<!-- pages/projects.md -->
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}

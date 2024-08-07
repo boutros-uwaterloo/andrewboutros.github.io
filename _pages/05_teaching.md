@@ -3,8 +3,8 @@ layout: page
 title: Teaching
 permalink: /teaching/
 description:
-nav: true
-nav_order: 5
+#nav: true
+#nav_order: 5
 display_categories: []
 horizontal: true
 ---
