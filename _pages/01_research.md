@@ -3,8 +3,8 @@ layout: page
 permalink: /research/
 title: Research
 description:
-nav: true
-nav_order: 1
+# nav: true
+# nav_order: 1
 ---
 
 Under construction.
