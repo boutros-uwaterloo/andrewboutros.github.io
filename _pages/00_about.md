@@ -15,7 +15,7 @@ profile:
     <p>Waterloo, Ontario</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -28,8 +28,7 @@ Before joining the University of Waterloo, I received my PhD in Electrical and C
 During and before my PhD, I was a researcher at Intel Labs and Intel's Programmable Solutions Group (now Altera).
 Then, I established and led the Toronto office of [MangoBoost](https://www.mangoboost.io/), a Seattle-based startup developing data processing units for datacenter infrastructure acceleration.
 
-
-### Research Interests 
+### Research Interests
 
 - Efficient hardware acceleration of key **applications** (such as deep learning and networking) using FPGAs and other reconfigurable architectures.
 - **Architecture** of future FPGAs and beyond-FPGA reconfigurable acceleration devices that integrate traditional programmable fabrics with coarse-grained accelerators and networks-on-chip.
