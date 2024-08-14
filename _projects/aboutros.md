@@ -16,7 +16,7 @@ Andrew received his BSc in Electronics Engineering from the German University in
 
 ### On a Personal Note
 
-I am an Egyptian currently living in Canada. I studied and worked in 3 continents and 4 different countries since my undergrad. I am a father of a beautiful daughter, *Ayla*, and a husband to a loving wife, *Sarah*. If you wrote a paper with me or asked my feedback about presentations before, you would know that I am borderline OCD when it comes to figures and organization -- if this gets on your nerves, sorry for that :)
+I am an Egyptian currently living in Canada. I studied and worked in 3 continents and 4 different countries since my undergrad. I am a father of a beautiful daughter, _Ayla_, and a husband to a loving wife, _Sarah_. If you wrote a paper with me or asked my feedback about presentations before, you would know that I am borderline OCD when it comes to figures and organization -- if this gets on your nerves, sorry for that :)
 
 I am not very big on physical activities and I find enjoyment in only a few things in life outside work including reading historical fictions, watching soccer, and playing chess (eventhough I am not good at it!).
 
@@ -42,6 +42,4 @@ Here are a number of recorded talks on my research work:
   <iframe height="315" src="https://www.youtube.com/embed/0xuhaytADig?si=yLnHzDy5EM1_5-Rh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-
 ### Gallery
-
