@@ -1,0 +1,13 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: assets/img/2024_imperial_visit.jpg
+      alt: Dinner during visit to Imperial College London - Feb 2024
+    - src: assets/img/2023_fpt_2.jpg
+      alt: Best paper award at FPT'23 - December 2023
+    - src: assets/img/2023_fpt_1.jpg
+      alt: Exploring Tokyo with Vaughn and Mohamed - December 2023
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
