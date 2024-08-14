@@ -32,6 +32,10 @@ _To better view of this, you can right click on the image and open it in a new t
   {% include figure.liquid loading="eager" path="assets/img/academic_family.png" title="Academic Family" class="img-fluid rounded z-depth-1"%}
 </div>
 
+### Gallery
+
+{% include slider.html selector="slider2" %}
+
 ### Recorded Talks
 
 Here are a number of recorded talks on my research work:
@@ -45,7 +49,3 @@ Here are a number of recorded talks on my research work:
   <iframe height="128" src="https://www.youtube.com/embed/Nzz9O7whxT0?si=oeL_5VKYz7qo-QcU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <iframe height="128" src="https://www.youtube.com/embed/0xuhaytADig?si=yLnHzDy5EM1_5-Rh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-### Gallery
-
-{% include slider.html selector="slider2" %}
