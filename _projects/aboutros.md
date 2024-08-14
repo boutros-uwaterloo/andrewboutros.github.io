@@ -25,7 +25,7 @@ I am not very big on physical activities and I find enjoyment in only a few thin
 Attempting to work up the tree of my academic family was quite interesting! Thanks to the [Mathematics Genealogy Project](https://mathgenealogy.org/index.php) and Sergey Gribok for the help with this random endeavor.
 
 <div class="academic-family">
-  {% include figure.liquid loading="eager" path="assets/img/academic_family.png" title="Academic Family" class="img-fluid rounded z-depth-1" zoomable="true"%}
+  {% include figure.liquid loading="eager" path="assets/img/academic_family.png" title="Academic Family" class="img-fluid rounded z-depth-1" width="2000"%}
 </div>
 
 ### Recorded Talks
