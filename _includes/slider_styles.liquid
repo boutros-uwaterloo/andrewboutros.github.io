@@ -1,0 +1,6 @@
+{% assign slider_css = '/assets/css/slider/ideal-image-slider.css' %}
+{% assign slider_css_default = '/assets/css/slider/themes/default.css' %}
+{% if page.image_sliders or layout.image_sliders or page.image_sliders_load_all %}
+  <link rel="stylesheet" href="{{ slider_css | relative_url }}">
+  <link rel="stylesheet" href="{{ slider_css_default | relative_url }}">
+{% endif %}
