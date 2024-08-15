@@ -34,7 +34,7 @@ _To better view of this, you can right click on the image and open it in a new t
 
 ### Gallery
 
-{% include slider.html selector="slider2" %}
+{% include slider.liquid selector="slider2" %}
 
 ### Recorded Talks
 
