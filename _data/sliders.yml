@@ -9,5 +9,5 @@
     - src: assets/img/gallery/2023_fpt_1.jpg
       alt: Exploring Tokyo with Vaughn and Mohamed - December 2023
   settings:
-    height: "'auto'"
+    height: "512"
     effect: "'fade'"
