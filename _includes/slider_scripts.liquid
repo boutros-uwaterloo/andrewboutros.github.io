@@ -21,41 +21,41 @@
       var {{ slider.selector }} = new IdealImageSlider.Slider({
         selector: '#{{ slider.selector }}',
         {% if settings.height %}
-        height: {{ settings.height }},
+          height: {{ settings.height }},
         {% endif %}
         {% if settings.initialHeight %}
-        initialHeight: {{ settings.initialHeight }},
+          initialHeight: {{ settings.initialHeight }},
         {% endif %}
         {% if settings.maxHeight %}
-        maxHeight: {{ settings.maxHeight }},
+          maxHeight: {{ settings.maxHeight }},
         {% endif %}
         {% if settings.interval %}
-        interval: {{ settings.interval }},
+          interval: {{ settings.interval }},
         {% endif %}
         {% if settings.transitionDuration %}
-        transitionDuration: {{ settings.transitionDuration }},
+          transitionDuration: {{ settings.transitionDuration }},
         {% endif %}
         {% if settings.effect %}
-        effect: {{ settings.effect }},
+          effect: {{ settings.effect }},
         {% endif %}
         {% if settings.disableNav -%}
-        disableNav: {{ settings.disableNav }},
+          disableNav: {{ settings.disableNav }},
         {% endif -%}
         {% if settings.keyboardNav %}
-        keyboardNav: {{ settings.keyboardNav }},
+          keyboardNav: {{ settings.keyboardNav }},
         {% endif %}
         {% if settings.previousNavSelector %}
-        previousNavSelector: {{ settings.previousNavSelector }},
+          previousNavSelector: {{ settings.previousNavSelector }},
         {% endif %}
         {% if settings.nextNavSelector %}
-        nextNavSelector: {{ settings.nextNavSelector }},
+          nextNavSelector: {{ settings.nextNavSelector }},
         {% endif %}
       });
       {% if slider.bullets == true %}
-      {{ slider.selector }}.addBulletNav();
+        {{ slider.selector }}.addBulletNav();
       {% endif %}
       {% if slider.captions == true %}
-      {{ slider.selector }}.addCaptions();
+        {{ slider.selector }}.addCaptions();
       {% endif %}
       {{ slider.selector }}.start();
     {% endfor %}
