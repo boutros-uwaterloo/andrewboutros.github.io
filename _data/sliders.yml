@@ -1,5 +1,5 @@
 # example slider
-- selector: example_slider
+- selector: slider2
   captions: true
   images:
     - src: assets/img/2024_imperial_visit.jpg
