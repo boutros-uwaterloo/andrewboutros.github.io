@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Andrew
 middle_name:
 last_name: Boutros
-email: andrew.m.boutros@gmail.com
+email: andrew.boutros@uwaterloo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal web page of Andrew Boutros.
 footer_text:

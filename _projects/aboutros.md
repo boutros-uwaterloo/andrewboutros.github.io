@@ -28,7 +28,7 @@ I am not very big on physical activities and I find enjoyment in only a few thin
 
 ### Academic Family
 
-Attempting to work up the tree of my academic family was quite interesting! Thanks to the [Mathematics Genealogy Project](https://mathgenealogy.org/index.php) and Sergey Gribok for the help with this random endeavor. Shoot me an [email](mailto:andrew.m.boutros@gmail.com) if you found something I should correct/add in this tree.
+Attempting to work up the tree of my academic family was quite interesting! Thanks to the [Mathematics Genealogy Project](https://mathgenealogy.org/index.php) and Sergey Gribok for the help with this random endeavor. Shoot me an [email](mailto:andrew.boutros@uwaterloo.ca) if you found something I should correct/add in this tree.
 
 _To better view of this, you can right click on the image and open it in a new tab. This will allow you to zoom and pan through it at full resolution._
 
