@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: TBD</p>
+    <p>Office: E5-4003</p>
     <p>200 University Ave W</p>
     <p>Waterloo, Ontario</p>
 
