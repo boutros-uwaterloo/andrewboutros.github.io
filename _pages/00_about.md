@@ -3,10 +3,9 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Incoming Assistant Professor <br />
-  Electrical and Computer Engineering Department @ University of Waterloo
+  Assistant Professor, ECE @ University of Waterloo
 profile:
-  align: right
+  align: rights
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -19,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming Assistant Professor at the department of [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) of the [University of Waterloo](https://en.wikipedia.org/wiki/University_of_Waterloo) starting in January 2025.
+I am an Assistant Professor of [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) at the [University of Waterloo](https://uwaterloo.ca).
 My research focuses on building new reconfigurable computing architectures that are more efficient, easier and faster to program, and better suited for high-demand workloads at the edge and datacenters.
 This involves work on architecture and circuit modeling, computer-aided design tools, and application/hardware co-design.
 I am particularly interested in applications from the deep learning and datacenter networking domains.
