@@ -9,6 +9,8 @@ display_categories: [Current, Alumni]
 horizontal: false
 ---
 
+To access internal team Wiki, click [here](https://www.notion.so/Andrew-Boutros-Wiki-1846565edfdb8019a4ecff787d7d4e2d?pvs=4).
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
